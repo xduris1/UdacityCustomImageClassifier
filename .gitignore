@@ -1,2 +1,5 @@
 venv
 flower_data
+.idea
+.github
+UdacityCustomImageClassifier
